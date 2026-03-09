@@ -8,8 +8,8 @@ The goal of this project is to practice building responsive UI components using 
 
 ## 🚀 Demo
 
-* 🔗 Live Site: add-your-live-link-here
-* 🔗 Frontend Mentor Solution: add-your-solution-link-here
+* 🔗  https://sohib-ezaldeen.github.io/article-preview/
+* 🔗 Frontend Mentor Solution: a https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT
 
 ---
 
